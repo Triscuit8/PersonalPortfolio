@@ -1,38 +1,75 @@
-.App {
+*{
+  margin: 0;
+  padding: 0;
+ }
+
+.menu {
   text-align: center;
+  background-color: aqua;
+  margin-bottom: 20px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.menu:hover{
+  background: lightgreen;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.title {
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+button {
+  height: 50px;
+  width: 100px;
+  border-radius: 5px;
+  margin-left: 25px;
 }
 
-.App-link {
-  color: #61dafb;
+button:hover {
+  background: white;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.content {
+  text-align: left;
+  margin: 10px;
 }
+
+p{
+  font-size: 20px;
+  margin-left: 15px;
+  padding-bottom: 50px;
+}
+
+body{
+  margin: 0px;
+}
+
+img{
+  margin-right: 20px;
+  margin-bottom: 5px;
+}
+
+.Bottombar{
+  background-color: aqua;
+  height: 80px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.Bottombar:hover{
+  background: lightgreen;
+}
+
+.bottombarContent{
+  color: gray;
+}
+
+.aboutMeText{
+  font-size: 50px;
+}
+
+
+
+
+
