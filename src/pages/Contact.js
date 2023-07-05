@@ -49,8 +49,8 @@ export default function Contact() {
         <br />
         <br />
         <p className="aboutMeText">@tristoniscool8</p>
-        <Bottombar />
       </div>
+      <Bottombar />
     </div>
   );
 }
