@@ -12,9 +12,7 @@ export default function MyProjects() {
         <Navbar />
       </div>
       <div className="content">
-        <p style={{fontSize:"35px"}}>
-          Sleepy Ninja
-        </p>
+        <p style={{ fontSize: "35px" }}>Sleepy Ninja</p>
       </div>
       <Bottombar />
     </div>
