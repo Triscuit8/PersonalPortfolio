@@ -55,7 +55,7 @@ export default function AboutMe() {
           of British Columbia, one of the best universities in the world. I am
           so thankful for this opportunity to realize who I am and who I want to
           be. I have met many amazing people who have helped me along this
-          journey and hopefully they will be by my side until the end!
+          journey and hopefully they will be by my side until the very end!
         </p>
       </div>
       <Bottombar />

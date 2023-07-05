@@ -7,7 +7,7 @@ export default function MyProjects() {
     <div className="container">
       <div className="menu">
         <div className="title">
-          <h1 style={{ fontFamily: "Arial" }}>My Projects</h1>
+          <h1 style={{ fontFamily: "Arial" }}>My Projects!</h1>
         </div>
         <Navbar />
       </div>
